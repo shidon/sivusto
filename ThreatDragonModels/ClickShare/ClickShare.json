@@ -1,10 +1,12 @@
 {
   "summary": {
     "title": "ClickShare",
-    "description": "Langattoman presentaatiojärjestelmän avulla voi jakaa sisältöä koneelta napin painalluksella. Neuvottelutiloissa pääset eroon kaapelien etsimisestä sekä näyttöjen resoluutioiden säätämisestä. Jaa kuva neuvottelutilan näytölle tietokoneelta, tabletilta tai puhelimista. Presentaatiojärjestelmä on yhteensopiva Android- ja IOS- mobiilialustojen kanssa. Järjestelmän välityksellä liikutat näytölle kuvaa ja ääntä. Voit huoletta keskittyä esitykseen ilman turhia jännityksiä järjestelmän toimivuudesta."
+    "description": "Langattoman presentaatiojärjestelmän avulla voi jakaa sisältöä koneelta napin painalluksella. Neuvottelutiloissa pääset eroon kaapelien etsimisestä sekä näyttöjen resoluutioiden säätämisestä. Jaa kuva neuvottelutilan näytölle tietokoneelta, tabletilta tai puhelimista. Presentaatiojärjestelmä on yhteensopiva Android- ja IOS- mobiilialustojen kanssa. Järjestelmän välityksellä liikutat näytölle kuvaa ja ääntä. Voit huoletta keskittyä esitykseen ilman turhia jännityksiä järjestelmän toimivuudesta.",
+    "owner": "test"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "test"
   }
 }
